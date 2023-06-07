@@ -204,7 +204,7 @@ main {
 /* A LITTLE BEFORE PHONE */
 @media screen and (max-width: 968px) {
   main {
-    background-image: url(../assets/textured-background.jpeg);
+    background-image: url(textured-background.jpeg);
   }
   main img {
     display: none;
