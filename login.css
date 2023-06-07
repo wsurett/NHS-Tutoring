@@ -255,7 +255,7 @@ main {
     background: white;
   }
   main {
-    background-image: url(../assets/textured-background.jpeg);
+    background-image: url(textured-background.jpeg);
   }
   main img {
     width: 5rem;
